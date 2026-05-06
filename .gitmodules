@@ -1,0 +1,12 @@
+[submodule "external/DynamicalOTSurfaces"]
+	path = external/DynamicalOTSurfaces
+	url = https://github.com/HugoLav/DynamicalOTSurfaces.git
+[submodule "external/SOS-hex"]
+	path = external/SOS-hex
+	url = https://github.com/zoemarschner/SOS-hex.git
+[submodule "external/PM-SDP"]
+	path = external/PM-SDP
+	url = https://github.com/Haggaim/PM-SDP.git
+[submodule "external/RGD"]
+	path = external/RGD
+	url = https://github.com/michaled/RGD.git

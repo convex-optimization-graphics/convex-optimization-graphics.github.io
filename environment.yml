@@ -1,0 +1,25 @@
+name: convex-graphics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyterlab
+  - ipywidgets
+  - pip
+  - pip:
+      - cvxpy
+      - mosek
+      - clarabel
+      - scs
+      - libigl
+      - gpytoolbox
+      - polyscope
+      - pot
+      - potpourri3d
+      - robust_laplacian
+      - meshio
+      - sympy
+      - SumOfSquares
